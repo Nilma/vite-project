@@ -1,5 +1,3 @@
-Here is your README.md file in proper markdown format:
-
 # React 19 with Vite Setup Guide
 
 This guide explains how to set up a React 19 project using Vite. Follow these steps to create a project, update React to version 19, and customize your development server.
@@ -130,15 +128,7 @@ http://localhost:3000
 
 🚀 Next Steps
 
-You can now start building your React 19 app using the latest features. If you’d like, you can build a Blog App or explore new React features.
+You can now start building your React 19 app using the latest features, because this guide ensures your project is set up correctly with React 19 and Vite. 
+🎉 Happy coding! 🚀
 
-This guide ensures your project is set up correctly with React 19 and Vite. 🎉 Happy coding! 🚀
 
----
-
-### **How to Save It as `README.md`**
-1. **Open VS Code**.
-2. **Inside your `vite-project` directory**, create a new file:  
-   - File Name: `README.md`
-   - Paste the content above.
-3. **Save the file**.
