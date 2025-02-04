@@ -126,9 +126,9 @@ npm run dev
 
 http://localhost:3000
 
-🚀 Next Steps
+# Next Steps
 
 You can now start building your React 19 app using the latest features, because this guide ensures your project is set up correctly with React 19 and Vite. 
-🎉 Happy coding! 🚀
+# Happy coding! 
 
 
